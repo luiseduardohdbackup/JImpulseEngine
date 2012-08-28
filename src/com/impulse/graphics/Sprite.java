@@ -16,7 +16,6 @@ package com.impulse.graphics;
 //Java Imports
 import java.awt.Graphics;
 import java.awt.image.ImageObserver;
-import java.applet.Applet;
 import java.util.ArrayList;
 
 //Impulse Engine Imports
